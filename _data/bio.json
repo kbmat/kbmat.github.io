@@ -8,7 +8,7 @@
     "website": "https://kbmat.github.io",
     "summary": "I am studying for a B.B.A. in Management Information Systems in the Shidler College of Business at the University of Hawaii at Manoa. I expect to graduate in Spring, 2022.",
     "location": {
-      "address": "3254 Palai St.",
+      "address": "Lihue, Hawaii",
       "postalCode": "96766",
       "city": "Lihue",
       "countryCode": "USA",
@@ -39,113 +39,123 @@
       ]
     },
     {
-      "name": "Cold Brew Coffee",
+      "name": "Building Computers",
       "keywords": [
       ]
     }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
+      "name": "Technical",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Terminal",
+        "FileZilla",
+        "HTML/CSS"
       ]
     },
     {
-      "name": "Toolsets/OS",
+      "name": "Microsoft Office",
       "level": "",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Word",
+        "PowerPoint",
+        "Excel"
+      ]
+    },
+    {
+      "name": "Google Suite",
+      "level": "",
+      "keywords": [
+        "Docs",
+        "Slides",
+        "Sheets"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "institution": "Shidler College of Business | University of Hawaii at Manoa",
+      "area": "Management Information Systems (expected Spring, 2018)",
+      "studyType": "B.B.A.",
+      "startDate": "August 2018",
       "endDate": "Present",
-      "gpa": "",
-      "courses": [
-      ]
+      "gpa": "3.92"
+     
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "UH Information Technology Services",
+      "position": "Telecom Office Assistant",
+      
+      "startDate": "September 2019",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Maintain hard copy files of all Telecom documents and update database system",
+        "Assist with VoIP Deployment, unpacking, provisioning, and installing phones",
+        "Receive trouble calls, generate trouble tickets, and assist in simple repairs",
+        "Test, clean, and prepare telephone instruments"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "UH Department of Information and Computer Science",
+      "position": "Assistant Teaching Assistant",
+      
+      "startDate": "January 2020",
+      "endDate": "May 2020",
+   
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Assisted an undergraduate class with MS Office, Photoshop,and HTML/CSS",
+        "Taught students how to use the UNIX system (Command Prompt and FileZilla)"
+      ]
+    },
+    {
+      "company": "Marriott's Waiohai Beach Club",
+      "position": "Linen Runner Intern",
+      
+      "startDate": "May 2019",
+      "endDate": "August 2029",
+   
+      "highlights": [
+        "Delivered guest requests and answered phone calls",
+        "Assisted villa attendants with the cleaning of check-out rooms",
+        "Created daily breakouts for all staff and completed main linen runner paperwork"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Rotaract Club at the University of Hawaii at Manoa",
+      "website": "",
+      "position": "President",
+      "startDate": "February 2019",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Create, plan, and host meetings, workshops, volunteer events, professional development events, and social events for members",
+        "Maintain all Rotaract-related paperwork: Membership applications, club documents, etc."
       ]
     },
     {
-      "organization": "",
+      "organization": "Club Management Association of America",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
+      "position": "Vice-President",
+      "startDate": "August 2018",
+      "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Assisted with the development of the club's calendar of events and meetings",
+        "Ran the club in place of the President during Spring 2020"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Dean's List",
+      "date": "2018-Present",
+      "awarder": "University of Hawaii at Manoa",
+      "summary": "Undergraduate students awarded the Dean's List distinction if they earn a semester GPA of 3.5 or higher based on 12 credits"
     }
   ],
   "references": [
