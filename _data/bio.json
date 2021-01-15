@@ -8,7 +8,7 @@
     "website": "https://kbmat.github.io",
     "summary": "I am studying for a B.B.A. in Management Information Systems in the Shidler College of Business at the University of Hawaii at Manoa. I expect to graduate in Spring, 2022.",
     "location": {
-      "address": "Lihue, Hawaii",
+      "address": "",
       "postalCode": "96766",
       "city": "Lihue",
       "countryCode": "USA",
@@ -76,9 +76,9 @@
   "education": [
     {
       "institution": "Shidler College of Business | University of Hawaii at Manoa",
-      "area": "Management Information Systems (expected Spring, 2018)",
+      "area": "Management Information Systems (expected Spring, 2022)",
       "studyType": "B.B.A.",
-      "startDate": "August 2018",
+      "startDate": "2018",
       "endDate": "Present",
       "gpa": "3.92"
      
@@ -89,7 +89,7 @@
       "company": "UH Information Technology Services",
       "position": "Telecom Office Assistant",
       
-      "startDate": "September 2019",
+      "startDate": "2019",
       "endDate": "Present",
       "highlights": [
         "Maintain hard copy files of all Telecom documents and update database system",
@@ -102,8 +102,8 @@
       "company": "UH Department of Information and Computer Science",
       "position": "Assistant Teaching Assistant",
       
-      "startDate": "January 2020",
-      "endDate": "May 2020",
+      "startDate": "2020",
+      "endDate": "2020",
    
       "highlights": [
         "Assisted an undergraduate class with MS Office, Photoshop,and HTML/CSS",
@@ -114,8 +114,8 @@
       "company": "Marriott's Waiohai Beach Club",
       "position": "Linen Runner Intern",
       
-      "startDate": "May 2019",
-      "endDate": "August 2029",
+      "startDate": "2019",
+      "endDate": "2019",
    
       "highlights": [
         "Delivered guest requests and answered phone calls",
@@ -129,7 +129,7 @@
       "organization": "Rotaract Club at the University of Hawaii at Manoa",
       "website": "",
       "position": "President",
-      "startDate": "February 2019",
+      "startDate": "2019",
       "endDate": "Present",
       "summary": "",
       "highlights": [
@@ -141,7 +141,7 @@
       "organization": "Club Management Association of America",
       "website": "",
       "position": "Vice-President",
-      "startDate": "August 2018",
+      "startDate": "2018",
       "endDate": "Present",
       "summary": "",
       "highlights": [
