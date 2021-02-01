@@ -1,7 +1,8 @@
 ---
 layout: essay
 type: essay
-title: E1: UI Basics Technical Essay
+published: true
+title: "E1: UI Basics Technical Essay"
 date: 2021-01-28
 labels:
     - Browser History 1-3
