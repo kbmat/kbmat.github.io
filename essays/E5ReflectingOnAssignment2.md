@@ -13,7 +13,7 @@ labels:
 <h2>Assignment 2</h2>
 For assignment 2, I was supposed to modify my assignment 1, but require users to either login with an existing account or register a new account in order to receive the invoice with their order. I created a server that held my data validation and my post methods to process the requests.
 
-For futher details, please click <h3 href=https://dport96.github.io/ITM352/morea/150.Assignment2/experience-Assignment2_retrospective.html>here.</h3>
+For futher details, please go the following link: https://dport96.github.io/ITM352/morea/150.Assignment2/experience-Assignment2_retrospective.html.
 
 <h2>What I learned from this assignment...</h2>
 I learned many new things from this assignment. I learned how to create a simple login and registration page for users who access my webpage. I also learned how to create a server for my webpages to run through and how to use it to process and validate information that users input and request. I learned how to keep information from one page to another using the query string to retrieve and store the data until I redirect the user to another page. I learned how to create my own if statements for data validation. I also learned how to write my own functions as well. I learned how to provide security for the users through the server and my HTML files. We didn't have time to do the debugging lab, but during office hours I learned how to use the debugger. Finally, I learned how to apply personalization for certain users after they log in.
