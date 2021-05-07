@@ -10,7 +10,7 @@ labels:
 ---
 
 <h2>Kimberly's Checkpoint Assignment 3 Screencast:</h2>
-<a href="https://youtu.be/e4gK1Iiozac"></a>
+<a href="https://youtu.be/e4gK1Iiozac">Checkpoint Assignment 3 Screencast Here</a>
 
 <h2>Show what each page will look like. The pages do not have to be “functional” but the design should clear.</h2>
 <img src="../images/a3_checkpoint.png">
