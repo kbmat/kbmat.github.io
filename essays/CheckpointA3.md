@@ -12,7 +12,7 @@ labels:
 <h2>Kimberly's Checkpoint Assignment 3 Screencast</h2>
 
 <h2>Show what each page will look like. The pages do not have to be “functional” but the design should clear.</h2>
-
+<img src="../images/a3_checkpoint.png">
 
 <h2>Describe your design for your site’s shopping cart. That is, will it be a separate page that the user can view and edit, or will it be integrated into the product pages? If so, describe in detail how this will work on your site. Provide several examples of using the cart.</h2>
 My shopping cart will be my invoice html. On each products page, after selecting quantities, the user can click add to cart on  those quantities will be accessible in the shopping cart (invoice.html). On all of my product pages, there will be a navbar. In the navbar, there will be an area for the user to click and they will be redirected to the shopping cart (invoice.html). Once they view the shopping cart, the user will be able view and edit the items in their shopping cart. When they're on the shopping cart page they can also go back to any of the product pages using the nav bar or they can complete their purchase by clicking the "Complete purchase" button.
