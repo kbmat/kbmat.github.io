@@ -7,6 +7,8 @@ date: 2021-05-14
 labels:
     - Assignment 3
 ---
+For Assignment 3, I created an e-commerce site called "Kim's Krave Beauty Skincare" which offers various skincare products (cleanser, moisturizer, treatment, sunscreen) as well as accessories and tools.
+
 <h2>1.What was accomplished in the project as compared to what was planned?</h2>
 I am extremely proud of how my assigment turned out and I feel as though I accomplished everything that was required for this project. One of the first things that was required was that, as compared to Assignment 1 and 2, I needed three more pages of product for the user to select from. The next requirement was that I needed to somehow store a user's shopping cart data as well as their user data for personalization. I was able to save the user's shopping cart data of product quantities within a session. For the user's information after they logged in or registered, I stored that information in a cookie. With all of this information stored in sessions or cookies, I was able to create a user state that was displayed on my pages displaying things such as the user's identity or login status. Finally, I was able to send users an email with their invoice of their transaction.
  
